@@ -6,5 +6,5 @@ The app runs the simulation and camera streaming on parallel threads, ensuring s
 
 Requirements
 Install the following dependencies:
-pip install flask flask-socketio pybullet opencv-python-headless numpy
+'''pip install flask flask-socketio pybullet opencv-python-headless numpy'''
 
